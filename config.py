@@ -1,10 +1,10 @@
 from tkinter import *
 
 window = Tk()
-window.wm_attributes('-alpha', 0.8)
+window.wm_attributes('-alpha', 0.93)
 
 window.title("Создание документов для квестов")
-window.geometry('1000x670')
+window.geometry('1100x670')
 window.resizable(width=False, height=False)
 
 frame = Frame(window)
