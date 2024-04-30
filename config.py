@@ -4,7 +4,7 @@ window = Tk()
 window.wm_attributes('-alpha', 0.93)
 
 window.title("Создание документов для квестов")
-window.geometry('1100x670')
+window.geometry('1080x730')
 window.resizable(width=False, height=False)
 
 frame = Frame(window)
